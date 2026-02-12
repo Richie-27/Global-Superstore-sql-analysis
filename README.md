@@ -82,14 +82,6 @@ This project answers questions like:
 •	Is the business actually growing?
 This is the kind of SQL I want to bring into a real analytics team.
 ________________________________________
-📂 How to Run This Project
-1.	Create a PostgreSQL database
-2.	Run the table creation script
-3.	Import the Global Superstore CSV
-4.	Execute the analysis queries
-Done.
-________________________________________
-👩🏽‍💻 About Me
 Racheal Adeyemi
 Aspiring Data Analyst
 Turning raw data into structured insight.
